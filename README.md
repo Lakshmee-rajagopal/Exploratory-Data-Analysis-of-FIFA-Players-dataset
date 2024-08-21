@@ -9,7 +9,7 @@ Using the below dataset of fifa players dataset, an exploratory data analysis is
 6.Which club has the most number of players? 
 7.Which foot is most preferred by the players?Draw a bar chart for preferred foot
 
-In addition, the insights gained have been described in the Data Story. 
+In addition, the insights gained have been described under the Data Story section in the pdf file. 
 
 Dataset : 
 https://drive.google.com/file/d/10oyIT1KPdwUqeU9-2LX0xE5-ZytNn9su/view?usp=share_link
